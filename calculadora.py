@@ -15,7 +15,7 @@ def subtracao(a, b):
 
 def calculadora():
     print("Escolha a operação:")
-    print("1 - Soma")
+    print('1 - Soma')
     print("2 - Subtração")
     print("3 - Multiplicação")
     print("4 - Divisão")
